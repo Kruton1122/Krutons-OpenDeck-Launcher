@@ -41,7 +41,7 @@ Each action ships with a sensible default install path and can be overridden per
 
 ---
 
-## Customisation
+## Customization
 
 Click any placed button to open its settings panel:
 
